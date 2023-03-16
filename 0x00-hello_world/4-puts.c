@@ -6,3 +6,4 @@ int main()
     puts(myPuzzle);
     return 0;
 }
+gcc 4-puts.c -o 
