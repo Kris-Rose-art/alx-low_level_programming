@@ -4,7 +4,7 @@
  * _puts - A function that prints a string followed by a new line
  * @str: string
  */
-void _puts(char *str);
+void _puts(char *str)
 {
 	while (*str != '\0')
 	{
